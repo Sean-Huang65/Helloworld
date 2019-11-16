@@ -12,6 +12,7 @@
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[c++](/code/53.cpp)|动态规划|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|[c++](/code/63.cpp)|动态规划|
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|[c++](/code/71.cpp)|字符串|
+|78|[组合](https://leetcode-cn.com/problems/combinations/)|[c++](/code/78.cpp)||
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[c++](/code/88.cpp)|数组|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[c++](/code/120.cpp)|动态规划|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[c++](/code/121.cpp)|动态规划|
