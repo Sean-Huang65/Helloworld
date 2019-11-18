@@ -33,3 +33,40 @@ public:
         return res;
     }
 };
+
+/**
+ * 解法二：
+ * 通过hash表实现，O（n）
+ * 从左到右遍历，记录下所有遍历数字的总和，如果出现mod k数值相同的情况，且两种情况的index相差大于1，
+ * 则说明中间部分mod k=0.
+ * 特殊情况：
+ * 连续输出先两个0.
+ * /
+class Solution {
+public:
+    bool checkSubarraySum(vector<int>& nums, int k) {
+        int size = nums.size();
+        if(size<2) return false;
+        for(int i=1; i<size; i++){
+            if(nums[i]==0 && nums[i-1]==0) return true;
+        }
+        if(k==0){
+            return false;
+        }
+        map<int,int> m;
+        int sum = nums[0] % k;
+        m[sum] = 0;
+        for(int i=1; i<size; i++){
+            if(nums[i]!=0){
+                sum += nums[i];
+                sum %= k;
+                if((m.find(sum)!=m.end() && i - m[sum] > 1) || sum==0){
+                    return true;
+                }
+                m[sum]=i;
+            }
+            
+        }
+        return false;
+    }
+};
