@@ -13,6 +13,7 @@
 |43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)|[c++](/code/43.cpp)|字符串
 |45|[跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/)|[c++](/code/45.cpp)|贪心、动态规划|
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)|[c++](/code/53.cpp)|动态规划|
+|61|[旋转链表](https://leetcode-cn.com/problems/rotate-list/)|[c++](/code/61.cpp)|链表|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|[c++](/code/63.cpp)|动态规划|
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|[c++](/code/71.cpp)|字符串|
 |78|[组合](https://leetcode-cn.com/problems/combinations/)|[c++](/code/78.cpp)||
@@ -21,9 +22,13 @@
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[c++](/code/121.cpp)|动态规划|
 |122|[买卖股票的最佳时机II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)|[c++](/code/122.cpp)|动态规划|
 |125|[验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)|[c++](/code/125.cpp)|字符串|
+|141|[环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)|[c++](/code/141.cpp)|链表|
+|142|[环形链表II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)|[c++](/code/142.cpp)|链表|
+|160|[相交链表]|||
 |206|[反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)|[c++](/code/206.cpp)|链表
 |219|[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-ii/)|[c++](/code/219.cpp)|动态规划|
 |220|[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)|[c++](/code/220.cpp)|动态规划|
+|237|[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)|||
 |240|[搜索二维矩阵II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)|[c++](/code/240.cpp)|修剪|
 |264|[丑数II](https://leetcode-cn.com/problems/ugly-number-ii/)|[c++](/code/264.cpp)|三指针|
 |350|[两个数组的交集II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)|[c++](/code/350.cpp)||
