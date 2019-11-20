@@ -4,6 +4,7 @@
 
 |#|题目|解法|分类|
 |--|--|--|--|
+|1|[]()|[c++](/code/1.cpp)||
 |2|[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)|[c++](/code/2.cpp)|链表|
 |3|[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)|[c++](/code/3.cpp)|字符串
 |15|[三数之和](https://leetcode-cn.com/problems/3sum/)|[c++](/code/15.cpp)|数组|
@@ -16,7 +17,8 @@
 |61|[旋转链表](https://leetcode-cn.com/problems/rotate-list/)|[c++](/code/61.cpp)|链表|
 |63|[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii/)|[c++](/code/63.cpp)|动态规划|
 |71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)|[c++](/code/71.cpp)|字符串|
-|78|[组合](https://leetcode-cn.com/problems/combinations/)|[c++](/code/78.cpp)||
+|77|[组合](https://leetcode-cn.com/problems/combinations/)|[c++](/code/77.cpp)||
+|78|[子集](https://leetcode-cn.com/problems/subsets/)|[c++](/code/78.cpp)||
 |88|[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)|[c++](/code/88.cpp)|数组|
 |120|[三角形最小路径和](https://leetcode-cn.com/problems/triangle/)|[c++](/code/120.cpp)|动态规划|
 |121|[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)|[c++](/code/121.cpp)|动态规划|
